@@ -1,0 +1,24 @@
+2019-01-19 23:57:25.658 | DEBUG | async-thread-macro-1 | discljord.connections | Connecting shard [0 1]
+2019-01-20 00:03:28.869 | DEBUG | async-dispatch-2 | discljord.connections | Shard disconnected from Discord
+2019-01-20 00:03:28.871 | DEBUG | async-dispatch-2 | discljord.connections | Stop code 1001 encountered with message:
+	Shutdown
+2019-01-20 00:03:28.871 | DEBUG | async-dispatch-2 | discljord.connections | Reconnecting
+2019-01-20 00:03:28.871 | DEBUG | async-dispatch-2 | discljord.connections | Connecting shard [0 1]
+2019-01-30 13:30:43.059 | DEBUG | async-thread-macro-1 | discljord.connections | Connecting shard [0 1]
+2019-01-30 13:31:18.488 | DEBUG | async-dispatch-1 | discljord.connections | Shard disconnected from Discord
+2019-01-30 13:31:18.491 | DEBUG | async-dispatch-1 | discljord.connections | Stop code 1001 encountered with message:
+	Shutdown
+2019-01-30 13:31:18.492 | DEBUG | async-dispatch-1 | discljord.connections | Reconnecting
+2019-01-30 13:31:18.492 | DEBUG | async-dispatch-1 | discljord.connections | Connecting shard [0 1]
+2019-01-30 13:44:21.331 | DEBUG | async-thread-macro-1 | discljord.connections | Connecting shard [0 1]
+2019-01-30 13:44:39.247 | DEBUG | async-dispatch-1 | discljord.connections | Shard disconnected from Discord
+2019-01-30 13:44:39.248 | DEBUG | async-dispatch-1 | discljord.connections | Stop code 1001 encountered with message:
+	Shutdown
+2019-01-30 13:44:39.248 | DEBUG | async-dispatch-1 | discljord.connections | Reconnecting
+2019-01-30 13:44:39.249 | DEBUG | async-dispatch-1 | discljord.connections | Connecting shard [0 1]
+2019-01-31 01:38:35.686 | DEBUG | async-thread-macro-1 | discljord.connections | Connecting shard [0 1]
+2019-01-31 02:11:32.512 | DEBUG | async-dispatch-6 | discljord.connections | Shard disconnected from Discord
+2019-01-31 02:11:32.514 | DEBUG | async-dispatch-6 | discljord.connections | Stop code 1001 encountered with message:
+	Shutdown
+2019-01-31 02:11:32.514 | DEBUG | async-dispatch-6 | discljord.connections | Reconnecting
+2019-01-31 02:11:32.514 | DEBUG | async-dispatch-6 | discljord.connections | Connecting shard [0 1]
