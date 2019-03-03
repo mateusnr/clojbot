@@ -38,7 +38,7 @@
   [event-type {{bot :bot :as author} :author :keys [channel-id content]}]
   (when (and (nil? bot) (s/starts-with? content "!doc"))
     (let [msg (last (s/split content #" "))]
-      (m/send-message! (:messaging @state) channel-id (doc-command! msg))
+      (m/create-message! (:messaging @state) channel-id :content (doc-command! msg))
   )))
 
 (defn -main
